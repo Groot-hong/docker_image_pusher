@@ -1,2 +1,3 @@
 qBittorrent
 Aria2
+alpine
